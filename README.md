@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Maaz!
 
-<!--
-**maazsheikh039/maazsheikh039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps & AIOps Engineer | Automation Enthusiast
+I am a passionate learner currently focusing on scaling systems with intelligence and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Certifications
+* 🎖️ **EduQual Level 6 Diploma in AIOps** @ Al Nafi.
+* 🐧 **Linux Power User:** Proficient in RHEL and Ubuntu environments.
+* 🤖 **AIOps Focus:** Exploring how AI/ML can enhance system performance and incident response.
+
+### 🛠️ Tech Stack & Skills
+* **DevOps:** Docker, Kubernetes, CI/CD Pipelines.
+* **Scripting:** Python (Automation & Data Processing), Bash.
+* **Operating Systems:** Linux (RHEL, Ubuntu).
+* **Problem Solving:** Active solver on LeetCode.
+  
+---
+
+### 📈 GitHub Stats
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical)
+
+### 📫 Let's Connect!
+* **LinkedIn:** https://www.linkedin.com/in/maaz-ghufran-777mz/
+* **Location:** Karachi, Pakistan 🇵🇰
