@@ -25,9 +25,9 @@ I am a passionate learner currently focusing on scaling systems with intelligenc
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=true" alt="Maaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Maaz's GitHub stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
