@@ -24,7 +24,7 @@
       I'm a passionate <b>DevOps & Cloud Native Enthusiast</b> from Karachi 🇵🇰, currently expanding my expertise in modern cloud infrastructure and automated workflows through the <b>AIOps Level 6 Diploma</b> at <b>Al Nafi</b>. My mission is to build scalable, secure, and highly automated systems using the best practices in Cloud Computing.
     </td>
     <td width="40%" align="center">
-      <img src="devops-isometric.jpg" width="250" alt="Maaz Ghufran">
+      <img src="DevOps-pic.webp" width="250" alt="Maaz Ghufran">
     </td>
   </tr>
 </table>
