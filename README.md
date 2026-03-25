@@ -25,7 +25,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     <th align="left">Tools & Technologies</th>
   </tr>
   <tr>
-    <td width="25%"><strong>💻 Programming & Scripting</strong><br></td>
+    <td width="20%"><strong>💻 Programming & Scripting</strong><br></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -35,7 +35,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     </td>
   </tr>
   <tr>
-    <td><strong>🐋 Containers & Orchestration</strong><br></td>
+    <td width="20%"><strong>🐋 Containers & Orchestration</strong><br></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -43,7 +43,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     </td>
   </tr>
   <tr>
-    <td><strong>🔧 Automation & QA</strong><br></td>
+    <td width="20%"><strong>🔧 Automation & QA</strong><br></td>
     <td>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
@@ -51,7 +51,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     </td>
   </tr>
   <tr>
-    <td><strong>🏗️ Infrastructure as Code</strong><br></td>
+    <td width="20%"><strong>🏗️ Infrastructure as Code</strong><br></td>
     <td>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
@@ -61,7 +61,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     </td>
   </tr>
   <tr>
-    <td><strong>🚀 CI/CD & Security</strong><br></td>
+    <td width="20%"><strong>🚀 CI/CD & Security</strong><br></td>
     <td>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
@@ -72,7 +72,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     </td>
   </tr>
   <tr>
-    <td><strong>🐧 Operating Systems</strong></td>
+    <td width="20%"><strong>🐧 Operating Systems</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
