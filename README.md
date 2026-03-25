@@ -87,12 +87,12 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=true" width="44%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazsheikh039&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazsheikh039&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
