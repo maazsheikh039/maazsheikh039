@@ -111,5 +111,15 @@
 
 ---
 
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maazsheikh039/maazsheikh039/output/github-snake.svg" alt="GitHub Snake">
+</p>
+
+---
+
 ### 💬 Favorite Quote
 > "Automation is not about displacing people, it's about automating the repetitive so that people can focus on the creative."
