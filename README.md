@@ -20,10 +20,10 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       I'm a passionate <b>DevOps & Cloud Native Enthusiast</b> from Karachi 🇵🇰, currently expanding my expertise in modern cloud infrastructure and automated workflows through the <b>AIOps Level 6 Diploma</b> at <b>Al Nafi</b>. My mission is to build scalable, secure, and highly automated systems using the best practices in Cloud Computing.
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="DevOps-pic.webp" width="250" alt="Maaz Ghufran">
     </td>
   </tr>
@@ -108,8 +108,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazsheikh039&theme=radical&hide_border=true" width="60%" />
 </p>
-
----
 
 ---
 
