@@ -25,7 +25,7 @@ I'm a passionate **DevOps & Cloud Native Enthusiast** from Karachi 🇵🇰, cur
     <th align="left">Tools & Technologies</th>
   </tr>
   <tr>
-    <td width="30%"><strong>💻 Programming & Scripting</strong><br></td>
+    <td width="25%"><strong>💻 Programming & Scripting</strong><br></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
