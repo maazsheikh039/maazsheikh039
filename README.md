@@ -98,15 +98,48 @@
 
 ---
 
+<br />
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Let's collaborate and build something amazing together!</p>
+  
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="YOUR_GITHUB_URL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br />
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+</p> -->
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=true" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maazsheikh039&show_icons=true&theme=radical&hide_border=false" alt="Maaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazsheikh039&layout=compact&theme=radical&hide_border=false" alt="Maaz's Top Languages" width="43%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazsheikh039&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazsheikh039&theme=radical&hide_border=false" alt="Maaz's Streak Stats" width="60%" />
 </p>
 
 ---
@@ -119,5 +152,11 @@
 
 ---
 
+---
+
 ### 💬 Favorite Quote
-> "Automation is not about displacing people, it's about automating the repetitive so that people can focus on the creative."
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=900&height=50&lines=%22Automation+is+not+about+displacing+people...%22;%22...it's+about+automating+the+repetitive...%22;%22...so+that+people+can+focus+on+the+creative.%22" alt="Favorite Quote" />
+</p>
+
