@@ -94,6 +94,14 @@
       <img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kalilinux&logoColor=white" />
     </td>
   </tr>
+<tr>
+  <td width="20%"><strong>☁️ Cloud Computing</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  </td>
+</tr>
 </table>
 
 ---
@@ -103,23 +111,23 @@
   <h2>🌐 Connect with Me</h2>
   <p>Let's collaborate and build something amazing together!</p>
   
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/maaz-ghufran-777mz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="YOUR_GITHUB_URL" target="_blank">
+  <a href="https://github.com/maazsheikh039" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="YOUR_TWITTER_URL" target="_blank">
+  <a href="https://x.com/maazsheikh039" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61571752903655" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="https://www.instagram.com/maaz_sheikh321/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
