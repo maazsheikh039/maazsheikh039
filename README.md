@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Maaz!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=100&lines=I'm+Maaz+Ghufran;Aspiring+AIOps+Engineer;DevOps+Engineer;Cloud+Computing+Specialist" alt="Maaz Ghufran designations typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=100&lines=I'm+Maaz+Ghufran;Aspiring+AIOps+Engineer;AI-Driven+Automation+Engineer;Cloud+Computing+Specialist" alt="Maaz Ghufran designations typing animation" />
 </p>
 
 <p align="center">
