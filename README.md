@@ -21,7 +21,8 @@
 <table border="0">
   <tr>
     <td width="60%" valign="center">
-      I'm a passionate <b>DevOps & Cloud Native Enthusiast</b> from Karachi 🇵🇰, currently expanding my expertise in modern cloud infrastructure and automated workflows through the <b>AIOps Level 6 Diploma</b> at <b>Al Nafi</b>. My mission is to build scalable, secure, and highly automated systems using the best practices in Cloud Computing.
+      I'm a passionate <b>AIOps & AI-Driven Automation Engineer</b> from Karachi 🇵🇰, currently expanding my expertise in modern cloud infrastructure and automated workflows through the <b>AIOps Level 6 Diploma</b> at <b>Al Nafi</b>. My mission is to build scalable, secure, and highly automated systems using AI and the best practices in Cloud Computing.
+     I don't just build the cloud; I build the brain that manages the cloud.
     </td>
     <td width="50%" align="center">
       <img src="DevOps-pic.webp" width="250" alt="Maaz Ghufran">
