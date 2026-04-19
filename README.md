@@ -36,73 +36,69 @@
 
 <table width="100%">
   <tr>
-    <th align="left">Category</th>
-    <th align="left">Tools & Technologies</th>
+    <th align="left" width="25%">Domain</th>
+    <th align="left" width="75%">Tools, Technologies & Frameworks</th>
   </tr>
   <tr>
-    <td width="20%"><strong>💻 Programming & Scripting</strong><br></td>
-    <td width="70%">
+    <td><strong>💻 Programming & Automation</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🐋 Containers & Orchestration</strong><br></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/KCNA-Cloud Native-326CE5?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🔧 Automation & QA</strong><br></td>
-    <td>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><strong>🏗️ Infrastructure as Code</strong><br></td>
+    <td><strong>🏗️ DevOps & IaC</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chef-F07F2D?style=flat-square&logo=chef&logoColor=white" />
-      <img src="https://img.shields.io/badge/Puppet-FFA600?style=flat-square&logo=puppet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🚀 CI/CD & Security</strong><br></td>
-    <td>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
-      <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
-      <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
-      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-      <img src="https://img.shields.io/badge/CKS-Security-CC0000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nagios-7EBB41?style=flat-square&logo=nagios&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><strong>🐧 Operating Systems</strong></td>
+    <td><strong>🤖 AI & Machine Learning</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Deep_Learning-9C27B0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-009688?style=flat-square" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Multi-Cloud Architecture</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Solution_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_Admin-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloud_Security-FFD600?style=flat-square&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ Cyber Security & SIEM</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=flat-square&logo=splunk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SCADA_Security-3F51B5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Threat_Hunting-5D4037?style=flat-square" />
+      <img src="https://img.shields.io/badge/Network_Pentesting-CC0000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🐧 Systems & GitOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/RHEL-CC0000?style=flat-square&logo=redhat&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
-<tr>
-  <td width="20%"><strong>☁️ Cloud Computing</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-  </td>
-</tr>
 </table>
 
 ---
