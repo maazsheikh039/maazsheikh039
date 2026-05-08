@@ -157,6 +157,8 @@
 
 ---
 
+![My Metrics](github-metrics.svg)
+
 ---
 
 ### 💬 Favorite Quote
