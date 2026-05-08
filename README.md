@@ -157,7 +157,16 @@
 
 ---
 
-![My Metrics](github-metrics.svg)
+<div align="center">
+  <h3>📊 My Automated GitHub Metrics</h3>
+  <table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 2px solid #f7df1e;">
+    <tr>
+      <td>
+        <img src="github-metrics.svg" alt="GitHub Metrics" width="800">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
