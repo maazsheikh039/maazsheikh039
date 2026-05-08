@@ -158,11 +158,11 @@
 ---
 
 <div align="center">
-  <h3>📊 My Automated GitHub Metrics</h3>
-  <table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 2px solid #f7df1e;">
+  <table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #333;">
     <tr>
-      <td>
-        <img src="github-metrics.svg" alt="GitHub Metrics" width="800">
+      <td align="center" style="padding: 10px;">
+        <!-- Width kam karne se font wapas normal ho jayega -->
+        <img src="github-metrics.svg" alt="GitHub Metrics" width="450">
       </td>
     </tr>
   </table>
