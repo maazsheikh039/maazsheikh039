@@ -19,21 +19,27 @@ jobs:
           config_timezone: Asia/Karachi
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          # Layout aur Appearance
-          config_display: compact 
+          # Layout aur Styling
+          config_display: compact
           config_padding: 0, 8%
-          config_output: svg
           
-          # --- Ye section aapka naya graph aur purana data dono dikhayega ---
-          # 'activity' aur 'community' hi wo graph generate karte hain
+          # --- Graph & Base Stats Section ---
+          # 'activity' aur 'community' hi wo lines wala graph banate hain
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           
-          # Is se graph aur stats ek khaas tarteeb mein aayenge
+          # Tarteeb: Pehle Header, phir wo Graph, phir baqi stats
           config_order: base.header, base.activity, base.community, base.repositories, base.metadata
           
-          # Aapka colorful languages wala part
+          # --- Plugins Section ---
+          # Colorful Languages
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          
+          # Coding Habits (Timeline graph ke liye)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
