@@ -19,17 +19,21 @@ jobs:
           config_timezone: Asia/Karachi
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          # --- Footer aur Extra lines hatane ke liye ---
-          config_display: compact # Is se layout thoda tight aur saaf ho jayega
+          # Layout aur Appearance
+          config_display: compact 
           config_padding: 0, 8%
           config_output: svg
           
-          # Ye lines niche ka extra text khatam kar dengi
+          # --- Ye section aapka naya graph aur purana data dono dikhayega ---
+          # 'activity' aur 'community' hi wo graph generate karte hain
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          
+          # Is se graph aur stats ek khaas tarteeb mein aayenge
           config_order: base.header, base.activity, base.community, base.repositories, base.metadata
           
-          # Plugins (Optional: agar colorful bars chahiye to 'yes' rakhen warna 'no' kar dein)
+          # Aapka colorful languages wala part
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: percentage
+          plugin_languages_limit: 8
