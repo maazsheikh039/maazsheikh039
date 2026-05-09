@@ -161,8 +161,7 @@
   <table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #333;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <!-- Width kam karne se font wapas normal ho jayega -->
-        <img src="github-metrics.svg" alt="GitHub Metrics" width="450">
+        <img src="github-metrics.svg?v=1" alt="GitHub Metrics" width="450">
       </td>
     </tr>
   </table>
