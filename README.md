@@ -161,7 +161,8 @@
   <table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #333;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="github-metrics.svg?v=1" alt="GitHub Metrics" width="450">
+        <!-- v=3 lagane se naya graph foran nazar aayega -->
+        <img src="github-metrics.svg?v=3" alt="GitHub Metrics" width="450">
       </td>
     </tr>
   </table>
