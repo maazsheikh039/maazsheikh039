@@ -1,6 +1,6 @@
  <p align="center">
   <img src="GitHub-Banner.png" alt="Maaz Ghufran Banner" width="100%">
-</p>
+</p> 
 
 # 👋 Hi, I'm Maaz!
 
