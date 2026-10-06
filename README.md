@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="GitHub-Banner.png" alt="Maaz Ghufran Banner" width="100%">
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Maaz Ghufran, aspiring AIOps and DevOps engineer from Karachi, Pakistan">
+</picture>
+
+</div>
 
 <h1 align="center">👋 Hi, I'm Maaz Ghufran</h1>
 
@@ -234,6 +240,14 @@ AIOps + AI Automation
   ↓
 AI Engineer / DevSecOps Engineer
 ```
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Maaz's GitHub Metrics" width="100%">
+</p>
 
 ---
 
