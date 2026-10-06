@@ -97,7 +97,7 @@ Linux → Python + Bash → Git + GitHub → Docker → Ansible → AWS → Terr
 ## GitHub Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Maaz's GitHub Metrics" width="100%">
+  <img src="./github-metrics.svg" alt="Maaz's GitHub Metrics" width="50%">
 </p>
 
 <p align="center">
