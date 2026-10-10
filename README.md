@@ -23,11 +23,22 @@ AI · Cloud Computing · Data Science · DevOps</p>
 
 ## About
 
+<table border="0">
+  <tr>
+    <td width="62%" valign="center">
+
 I'm an aspiring **Applied AI Engineer** based in Karachi, Pakistan. I'm interested in taking AI out of notebooks and into reliable, deployed systems.
 
 My work spans **AI / machine learning, data science and cloud computing**, built on a DevOps foundation of Linux, automation, containers and infrastructure as code. I learn through hands-on labs and projects.
 
 > *"I don't just want to manage infrastructure — I want to build intelligent systems that can observe, automate and improve it."*
+
+</td>
+    <td width="38%" align="center">
+      <img src="DevOps-pic.webp" width="250" alt="DevOps illustration">
+    </td>
+  </tr>
+</table>
 
 ## Focus Areas
 
@@ -97,7 +108,7 @@ Linux → Python + Bash → Git + GitHub → Docker → Ansible → AWS → Terr
 ## GitHub Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Maaz's GitHub Metrics" width="50%">
+  <img src="./github-metrics.svg" alt="Maaz's GitHub Metrics" width="100%">
 </p>
 
 <p align="center">
