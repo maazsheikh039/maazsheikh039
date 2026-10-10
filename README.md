@@ -34,7 +34,7 @@ My work spans **AI / machine learning, data science and cloud computing**, built
 > *"I don't just want to manage infrastructure — I want to build intelligent systems that can observe, automate and improve it."*
 
 </td>
-    <td width="38%" align="center">
+    <td width="48%" align="center">
       <img src="DevOps-pic.webp" width="250" alt="DevOps illustration">
     </td>
   </tr>
